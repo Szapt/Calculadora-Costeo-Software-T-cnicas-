@@ -1,0 +1,6 @@
+A continuación los pasos para poder configurar adecuadamente el prolog:
+
+1. Se debe descargar el archivo "calculadora de costos.pl"
+2. Al ingresar a prolog en la esquina superior en el apartado de "archivo" aparecerá la opción "Consultar", al presionar se debera seguidamente adjuntar el archivo del paso 1.
+3. Luego de haber adjuntado dicho documento y de que fuera cargado exitosamente en el prolog (Indicado por un texto verde)
+se debe iniciar la ejecución escribiendo el comando "calculadora_costos." (Muy importante el punto, de lo contrario no ejecutará)
